@@ -1,6 +1,12 @@
 # Intro-DA
 교과목 데이터분석입문
 
+## 교재
+- [파이썬으로 배우는 데이터분석 입문](https://product.kyobobook.co.kr/detail/S000214156345)
+
+  <img width="572" height="780" alt="image" src="https://github.com/user-attachments/assets/71850e82-5845-4e0d-8cd8-da15a669aba9" />
+
+
 ---
 ## 수업 일정
 | 주차 | 일자    | 요일  |  주제        | 비고     |
