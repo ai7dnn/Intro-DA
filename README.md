@@ -20,8 +20,8 @@
 ---
 
 ## 온라인 출석과 수업 참여
-- [A반(QA) 목요일 오전](https://docs.google.com/spreadsheets/d/1D6ayWWOMeVnYbkdMYzPTb6pRjdNcvLFk4VPmn_ylpus/edit?usp=sharing)
-- [B반(QB) 목요일 오후](https://docs.google.com/spreadsheets/d/1eSEnDMEoiSUiUgyeKz_xyt1tmn8EPJ3cRPKXZdKE7i4/edit?usp=sharing)
+- [A반(QA) 목요일 오전](https://docs.google.com/spreadsheets/d/1YO930WSBLCuIrimphpYstHCo2z8Z513wcbMtnqWGP_Y/edit?usp=sharing)
+- [B반(QB) 목요일 오후](https://docs.google.com/spreadsheets/d/1TSLoRsSZXmM94CmmiScsIGdDEXk5AIZMabRPaGIDiCg/edit?usp=sharing)
 
 ## 시험 일정과 점수
 - 중간고사
